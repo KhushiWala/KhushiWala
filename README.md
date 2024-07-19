@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **myself and my github profile.**
 
-- 🌱 I’m currently learning **BackEnd Development with next.js**
+- 🌱 I’m currently learning **BackEnd Development**
 
-- 💬 Ask me about **React.JS, Next.JS**
+- 💬 Ask me about ** Next.JS**
 
 - 📫 How to reach me **khushi122004@gmail.com**
 
@@ -16,8 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khushi wala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi wala" height="30" width="40" /></a>
-<a href="https://kaggle.com/khushiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khushiwala" height="30" width="40" /></a>
+
 <a href="https://instagram.com/violet_flame_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="violet_flame_4" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/4victory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4victory" height="30" width="40" /></a>
 </p>
 
