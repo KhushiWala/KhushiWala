@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **khushi122004@gmail.com**
 
+-  📄 Know about my experiences  <a href="./Resume.pdf">Resume</a>
+
 - ⚡ Fun fact **I think I am Ghost.**
 
 <h3 align="left">Connect with me:</h3>
